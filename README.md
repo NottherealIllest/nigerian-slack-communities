@@ -42,7 +42,7 @@ Community | Manager | Members | Description
 ### University Communities
 Community | Manager | Members | Description
 ----------|---------|---------| ------------
-[BellsUniversity Developers](http://bit.ly/2zmfaGz)  |    [@Nottherealilest](http://bit.ly/2ggw3xX)         | 682 | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
+[BellsUniversity Developers](http://bit.ly/2zmfaGz)  |    [@Nottherealilest](http://bit.ly/2ggw3xX)         | 68 | The Bells Developer Community was created to build an environment for developers in and around environs of the school to work together, solve problems,get introduced to new technologies and opportunities
 
 
 
